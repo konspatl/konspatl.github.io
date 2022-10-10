@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Konstantinos Patlatzoglou"
+title                    : 
 title_separator          : "-"
 name                     : &name "Konstantinos Patlatzoglou"
 description              : &description "PhD Researcher"
