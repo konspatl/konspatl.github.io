@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a computer scientist interested in AI, neuroscience, and biomedical engineering.
+I'm a computer scientist, interested in AI, neuroscience, and biomedical engineering.
 
 My research has focused on the analysis of neurophysiological data (EEG/fMRI) using machine learning methodologies. My general interests revolve around cognitive science, psychology, music perception, deep learning and biomedical engineering.
 
