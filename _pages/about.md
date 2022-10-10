@@ -10,7 +10,7 @@ redirect_from:
 
 Test
 
-This is my personal website
+Section
 ======
 
 Hello world
