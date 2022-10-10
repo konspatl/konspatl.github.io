@@ -15,11 +15,11 @@ In my free time, I enjoy composing and producing music at home, reading evolutio
 
 ## Education
 
-- **Ph.D. in Computer Science** - University of Kent (2017 - 2022)
+🎓 **Ph.D. in Computer Science** - University of Kent (2017 - 2022)
 
-- **M.Sc. in Sound and Music Computing** - Universitat Pompeu Fabra (2015 - 2016)
+🎓 **M.Sc. in Sound and Music Computing** - Universitat Pompeu Fabra (2015 - 2016)
 
-- **B.Sc. in Informatics** - Aristotle University of Thessaloniki (2010 - 2015)
+🎓 **B.Sc. in Informatics** - Aristotle University of Thessaloniki (2010 - 2015)
 
 ## Skills
 
