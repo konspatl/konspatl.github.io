@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Konstantinos Patlatzoglou"
-  avatar           : "images/profile.png"
+  avatar           : images/"profile.png"
   bio              : "Computer Scientist, Ph.D."
   location         : "Thessaloniki, Greece"
   employer         :
