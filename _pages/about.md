@@ -11,7 +11,7 @@ I'm a computer scientist, interested in AI, neuroscience, and biomedical enginee
 
 My research has focused on the analysis of neurophysiological data (EEG/fMRI) using machine learning methodologies. My general interests revolve around cognitive science, psychology, music perception, deep learning and biomedical engineering.
 
-In my free time, I enjoy composing and producing music at home, reading evolutionary biology, and watching/listening to podcasts.
+In my free time I enjoy playing, composing and producing music at home, or watching/listening to podcasts.
 
 ## Education
 
