@@ -24,7 +24,7 @@ In my free time I enjoy playing, composing and producing music at home, or watch
 ## Skills
 
 - **Languages:** Greek (*Native*), English (*Proficiency*)
-- **Coding:** Python, Java, Matlab, C
+- **Coding:** Python, Java, Matlab, C, SQL
 - **ML Libraries:** Scikit-learn, Tensorflow, Keras
 - **Misc:** MS Office, LaTeX, Unix Shell, Git, Slurm
 - **Audio Engineering:** Cubase, Kontakt, Sonic Visualizer
