@@ -9,9 +9,9 @@ redirect_from:
 ---
 I'm a computer scientist, interested in AI, neuroscience, and biomedical engineering.
 
-My research has focused on the analysis of neurophysiological data (EEG/fMRI) using signal processing and machine learning techniques. My primary interests revolve around cognitive science, psychology, music perception, deep learning and biomedical engineering.
+My research has focused on the analysis of electrophysiological and neurophysiological data (ECG/EEG/fMRI) using signal processing and machine learning techniques. My primary interests revolve around cognitive science, psychology, music perception, artificial intelligence, and biomedical engineering.
 
-In my free time I enjoy playing, composing and producing music at home, or watching/listening to podcasts.
+In my free time I enjoy playing, composing and producing music at home, watching/listening to podcasts, or playing tennis.
 
 ## Education
 
@@ -25,6 +25,6 @@ In my free time I enjoy playing, composing and producing music at home, or watch
 
 - **Languages:** Greek (*Native*), English (*Proficiency*)
 - **Coding:** Python, Java, Matlab, C, SQL
-- **ML Libraries:** Scikit-learn, Tensorflow, Keras
+- **ML Libraries:** Pandas, Scikit-learn, Tensorflow, Keras
 - **Misc:** MS Office, LaTeX, Unix Shell, Git, Slurm
 - **Audio Engineering:** Cubase, Kontakt, Sonic Visualizer
